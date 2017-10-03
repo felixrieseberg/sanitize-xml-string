@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/felixrieseberg/sanitize-xml-string.svg?branch=master)](https://travis-ci.org/felixrieseberg/sanitize-xml-string.svg?branch=master)
+[![Build Status](https://travis-ci.org/felixrieseberg/sanitize-xml-string.svg?branch=master)](https://travis-ci.org/felixrieseberg/sanitize-xml-string)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
 # sanitize-xml-string
