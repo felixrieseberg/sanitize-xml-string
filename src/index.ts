@@ -1,4 +1,4 @@
-const unsafe = /[\u{0000}\u{D800}-\u{DFFF}\u{FFFE}-\u{FFFF}]/um;
+const unsafe = /[\u{0000}-\u{0008}\u{D800}-\u{DFFF}\u{FFFE}-\u{FFFF}]/um;
 
 /**
  * Sanitizes an input string for usage with XML.
